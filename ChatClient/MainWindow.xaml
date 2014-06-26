@@ -1,0 +1,15 @@
+﻿<Window x:Class="ChatClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:src="clr-namespace:ChatClient"
+        Title="MainWindow" Height="350" Width="525"
+        DataContext="{Binding Path=MainWindow}" 
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <TabControl x:Name="Tabs">
+        <TabItem Header="Contacts">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <ListBox x:Name="clientListDisplay" MouseDoubleClick="clientListDisplay_MouseDoubleClick"/>
+            </ScrollViewer>
+        </TabItem>
+    </TabControl>
+</Window>

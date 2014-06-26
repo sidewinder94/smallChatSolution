@@ -1,0 +1,10 @@
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatServer.exe.config
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatServer.exe
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatServer.pdb
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatDll.dll
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatDllContracts.dll
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatDllContracts.pdb
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\bin\Release\ChatDll.pdb
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Release\ChatServer.exe
+C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Release\ChatServer.pdb
