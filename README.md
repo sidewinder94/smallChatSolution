@@ -1,4 +1,4 @@
 smallChatSolution
 =================
 
-A WCF learning Project allowing Several people ta chat with each other.
+A WCF learning Project allowing Several people to chat with each other.
