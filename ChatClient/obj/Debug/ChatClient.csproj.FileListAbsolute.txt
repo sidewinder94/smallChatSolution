@@ -18,3 +18,23 @@ C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatClient\obj\Debug\ChatClient.exe
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\bin\Debug\ChatDllContracts.dll
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\bin\Debug\ChatDllContracts.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatInterface.baml
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\Nick.baml
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatInterface.g.cs
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\Nick.g.cs
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\App.g.cs
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatClient\obj\Debug\ChatClient.pdb

@@ -9,3 +9,13 @@ C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Debug\ChatServer.exe
 C:\Sync\SkyDrive\Travail\Exia\A3 - EXIA\Prosits\14 - DAD\Prosit 2\Réalisations\Chat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatDll.dll
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatDllContracts.dll
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatDllContracts.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\bin\Debug\ChatDll.pdb
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Antoine-Ali\Source\Repos\smallChatSolution\ChatServer\obj\Debug\ChatServer.pdb
